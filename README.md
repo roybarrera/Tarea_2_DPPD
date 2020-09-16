@@ -4,11 +4,14 @@ Tarea final de la asignatura Proyectos y Productos de Datos, Magister en Data Sc
 ## Iterando un Producto de Datos
 
 Los estudiantes deben formar grupos de hasta 3 integrantes.
-Se trabajará la búsqueda de un Producto de Datos, se puede usar como base el trabajado realizado en la Tarea 1 o realizar algo completamente nuevo.
+* Se trabajará la búsqueda de un Producto de Datos, se puede usar como base el trabajado realizado en la Tarea 1 o realizar algo completamente nuevo.
+
 Como entregable final se esperan dos cosas:
-Demo funcional del prototipo del Producto de Datos.
-Reporte breve en formato PDF (se recomienda no extenderse más allá de 10 páginas), explicando los puntos solicitados en la rúbrica.
-La fecha de entrega es para el 16 de septiembre. Se aceptarán entregas atrasadas con un descuento de 1 punto hasta el día 21 de septiembre. De ahí en adelante se irá descontando 1 punto adicional por cada día de atraso.
+* Demo funcional del prototipo del Producto de Datos.
+* Reporte breve en formato PDF (se recomienda no extenderse más allá de 10 páginas), explicando los puntos solicitados en la rúbrica.
+
+La fecha de entrega es para el 16 de septiembre. 
+Se aceptarán entregas atrasadas con un descuento de 1 punto hasta el día 21 de septiembre. De ahí en adelante se irá descontando 1 punto adicional por cada día de atraso.
 
 ## Información Específica
 
@@ -22,8 +25,8 @@ __Modelo de negocios__: Investigar si hay otros productos de datos existentes qu
  
 
 ### Prototipo
-Dentro del reporte se debe entregar un enlace de acceso para probar el prototipo funcionando. 
-El prototipo puede ser elaborado y hospedado en cualquier plataforma de preferencia de los integrantes del grupo. Deben preocuparse de que esté funcional para el momento de la revisión.
-Debe funcionar como producto entregable, es decir, no en un ambiente local. 
-El prototipo puede ser del tipo mockup (sólo la idea plasmada en un caso de uso simple) pero es deseable que incorpore funcionalidades ya implementadas.
+* Dentro del reporte se debe entregar un enlace de acceso para probar el prototipo funcionando. 
+* El prototipo puede ser elaborado y hospedado en cualquier plataforma de preferencia de los integrantes del grupo. Deben preocuparse de que esté funcional para el momento de la revisión.
+* Debe funcionar como producto entregable, es decir, no en un ambiente local. 
+* El prototipo puede ser del tipo mockup (sólo la idea plasmada en un caso de uso simple) pero es deseable que incorpore funcionalidades ya implementadas.
 

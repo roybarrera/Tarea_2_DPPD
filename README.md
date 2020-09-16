@@ -6,4 +6,6 @@ Roy Barrera - José Pérez
 * En la carpeta __IMAGENES__ : están las imágenes más importantes usadas en el proyecto
 * En la carpeta __DOCUMENTOS__ : están el word y al powerpoint originales de los PDF que se encuentran en la raíz
 
-Favor de ver el video que explica el proyecto.
+Favor de leer el documento __REPORTE_PROYECTO.PDF__ y ver el video que explica el proyecto.
+
+Gracias.

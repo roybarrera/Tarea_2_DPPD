@@ -19,9 +19,13 @@ Se aceptarán entregas atrasadas con un descuento de 1 punto hasta el día 21 de
 En el reporte se deben abarcar los siguientes puntos:
  
 __Presentación de la idea__: Explicar de forma clara el problema que se desea solucionar y enunciar la forma de solución. Tratar de convencer sobre la urgencia o importancia de resolver el problema.
+
 __Exploración del usuario/cliente__: Definición de Usuario/Cliente ideal, cómo le afecta el problema y cuales beneficios le traerá la solución. Si es posible incluir una estimación del tamaño del mercado en Chile y Latam.
+
 __Desarrollo de prototipo de solución__: Entregar enlace al prototipo actual de solución. Este prototipo debe poder generar retroalimentación (intencionada) del cliente/usuario. Reportar cómo se ha contrastado el prototipo frente a usuarios o clientes potenciales. 
+
 __Modelo de negocios__: Investigar si hay otros productos de datos existentes que tratan de solucionar de alguna manera el problema. Indicar principales diferenciadores. Se espera que se sugiera un modelo de venta y precio.
+ 
  
 
 ### Prototipo

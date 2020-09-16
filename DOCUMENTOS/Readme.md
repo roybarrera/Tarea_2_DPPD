@@ -1,1 +1,1 @@
-En esta carpeta los originales
+En esta carpeta los documentos originales

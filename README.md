@@ -9,7 +9,12 @@ Roy Barrera - José Pérez
 * En la carpeta __FOTOS__ : están algunos de las fotos tomados con el celular desde el balcon
 * En la carpeta __WHATSAPP__ : están algunos de las imagenes y convesaciones que nos ayudaron a realizar el prototipo
 
-Favor de leer el documento __REPORTE_PROYECTO.PDF__ y ver el video que explica el proyecto.
+Favor de leer el documento __REPORTE_PROYECTO.PDF__ y si gusta, le invitamos a ver el video que explica el proyecto en el siguiente link :
+
+https://drive.google.com/drive/folders/1KlPJtKHzOjekgr9yluG3O0uuHgQOE6St?usp=sharing   
+
+NOTA 1 : usar su cuenta de correo UDD
+NOTA 2 : no fue posible subirlo a Github porque pesa mas de 25MB
 
 Gracias.
 

@@ -13,7 +13,11 @@ Favor de leer el documento __REPORTE_PROYECTO.PDF__ y si gusta, le invitamos a v
 
 https://drive.google.com/drive/folders/1KlPJtKHzOjekgr9yluG3O0uuHgQOE6St?usp=sharing   
 
-NOTA 1 : usar su cuenta de correo UDD
+NOTA 1 : requiere usar su cuenta de correo UDD
+
+ALTERNATIVA:
+https://drive.google.com/drive/folders/1KlPJtKHzOjekgr9yluG3O0uuHgQOE6St?usp=sharing
+
 NOTA 2 : no fue posible subirlo a Github porque pesa mas de 25MB
 
 Gracias.

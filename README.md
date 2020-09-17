@@ -1,5 +1,5 @@
-# Tarea_2_PYPDD
-Tarea final de la asignatura Proyectos y Productos de Datos, Magister en Data Science, UDD, 2020
+# Tarea_2_DPPD
+Tarea final de la asignatura Desarrollo de Proyectos y Productos de Datos, Magister en Data Science, UDD, 2020
 
 Roy Barrera - José Pérez
 

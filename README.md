@@ -22,3 +22,9 @@ NOTA 2 : no fue posible subirlo a Github porque pesa mas de 25MB
 
 Gracias.
 
+# ACTUALIZACION 23/09/2020; 02:23 AM
+
+NOTA 3 : Logré subir unos VIDEOS DEMO y ALGUNAS FOTOS de la MAQUETA O PROTOTIPO, Ojalá los puedas ver.
+NOTA 4 : Actualicé el documento : "Tarea2_VersionFinal.pdf"  Agregando unas cuantas imágenes del Prototipo
+
+Gracias!
